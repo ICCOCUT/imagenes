@@ -4,13 +4,21 @@
   "price": 180,
   "quantity": 50,
   "categoryid": "3",
-  "link": "https://github.com/ICCOCUT/imagenes/blob/master/arrachera.jpg"
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/arrachera.jpg"
 }1= bebida 2 = postres 3 = comida 
 {
   "title": "Pollo",
-  "description": "Pollo es un platillo de la cocina tradicional, muy popular en todo el mundo. En nuestro restaurante, utilizamos solo pollo de alta calidad, marinado con una mezcla de hierbas y especias cuidadosamente seleccionadas para darle un sabor único y delicioso. El pollo se cocina lentamente en el horno, lo que hace que la carne esté tierna y jugosa. Este platillo se vende por kilos y lo puedes acompañar con una variedad de guarniciones como papas, arroz o ensalada.",
+  "description": "Pollo es un platillo de la cocina tradicional, muy popular en todo el mundo. marinado con una mezcla de hierbas y especias cuidadosamente seleccionadas para darle un sabor único y delicioso.  Este platillo se vende por kilos y lo puedes acompañar con una variedad de guarniciones como papas, arroz o ensalada.",
   "price": 180,
   "quantity": 25,
-  "categoryid": 3
-  "link": "https://github.com/ICCOCUT/imagenes/blob/master/pollo.jpg"
+  "categoryid": 3,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/pollo.jpg"
+}
+{
+  "title": "Alitas Bbq",
+  "description": "Alitas bbq es un platillo de la cocina muy popular en todo el mundo. En nuestro restaurante, utilizamos solo pollo de alta calidad, marinado con una mezcla de hierbas y especias cuidadosamente seleccionadas para darle un sabor único y delicioso. El pollo se cocina lentamente en el horno, lo que hace que la carne esté tierna y jugosa. Este platillo se vende por Piezas y lo puedes acompañar con una variedad de guarniciones como papas, arroz o ensalada.",
+  "price": 180,
+  "quantity": 25,
+  "categoryid": 3,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/alitas%20bbq.jpg"
 }
