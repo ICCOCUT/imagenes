@@ -150,4 +150,60 @@
   "categoryid": 3,
   "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/tacosbladopollo.jpg"
 }
+{
+  "title": "Horchata y/ Fresa",
+  "description": "Nuestra agua de Frutas y horchata es una opción refrescante y llena de sabor para acompañar tus comidas o disfrutar por sí solo. Esta exquisita bebida combina una mezcla de frutas tropicales frescas, como piña, mango y maracuyá, que se combinan armoniosamente para crear una explosión de sabores exóticos y refrescantes en cada sorbo.",
+  "price": 15,
+  "quantity": 200,
+  "categoryid": 1,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/Bebidas/horchata.jpg"
+}
+{
+  "title": "Cerveza",
+  "description": "La cerveza Corona es una marca icónica y reconocida a nivel mundial. Originaria de México, se ha convertido en sinónimo de momentos relajados y de disfrutar de la vida al aire libre. Con su distintiva botella transparente y una rodaja de limón o lima colocada en el cuello, la Corona es una cerveza que evoca imágenes de playas tropicales y momentos de relajación.",
+  "price": 25,
+  "quantity": 200,
+  "categoryid": 1,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/Bebidas/cerverza.jpg"
+}
+{
+  "title": "Coca",
+  "description": "La Coca cola es una marca icónica y reconocida a nivel mundial. Originaria de México, se ha convertido en sinónimo de momentos relajados y de disfrutar de la vida al aire libre.",
+  "price": 15,
+  "quantity": 200,
+  "categoryid": 1,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/Bebidas/coca.png"
+}
+{
+  "title": "Tequila",
+  "description": "La Coca cola es una marca icónica y reconocida a nivel mundial. Originaria de México, se ha convertido en sinónimo de momentos relajados y de disfrutar de la vida al aire libre. Se vende por botella",
+  "price": 450,
+  "quantity": 200,
+  "categoryid": 1,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/Bebidas/tequila.jpg"
+}
+{
+  "title": "Biszcocho",
+  "description": "Nuestra receta tradicional utiliza una masa quebrada crujiente como base, se mezclan con canela, azúcar y un toque de jugo de limón. El relleno se distribuye uniformemente sobre la masa.",
+  "price": 50,
+  "quantity": 200,
+  "categoryid": 2,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/Postres/bizcocho.jpg"
+}
+{
+  "title": "Flan",
+  "description": "Nuestro flan de caramelo es un postre clásico que combina suavidad, dulzura y un delicioso sabor a caramelo. Cada porción de este exquisito postre es una experiencia indulgente para el paladar. se vende por pieza",
+  "price": 60,
+  "quantity": 200,
+  "categoryid": 2,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/Postres/flan.jpg"
+}
+{
+  "title": "Pay de queso",
+  "description": "El pay de queso es Nuestra receta tradicional utiliza una masa quebrada crujiente como base, se mezclan con canela, azúcar y queso crema. El relleno se distribuye uniformemente sobre la masa. se vende por pieza",
+  "price": 30,
+  "quantity": 200,
+  "categoryid": 2,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/Postres/bizcocho.jpg"
+}
 
