@@ -4,7 +4,7 @@
   "price": 180,
   "quantity": 50,
   "categoryid": "3",
-  "link": ""
+  "link": "https://github.com/ICCOCUT/imagenes/blob/master/arrachera.jpg"
 }1= bebida 2 = postres 3 = comida 
 {
   "title": "Pollo",
@@ -12,5 +12,5 @@
   "price": 180,
   "quantity": 25,
   "categoryid": 3
-  "link": ""
+  "link": "https://github.com/ICCOCUT/imagenes/blob/master/pollo.jpg"
 }
