@@ -22,3 +22,132 @@
   "categoryid": 3,
   "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/alitas%20bbq.jpg"
 }
+{
+  "title": "Arroz Rojo",
+  "description": "Arroz Rojo es un platillo de la cocina tradicional, muy popular en todo el mundo. marinado con una mezcla de hierbas y especias cuidadosamente seleccionadas para darle un sabor único y delicioso.  Este platillo se vende por piezas",
+  "price": 30,
+  "quantity": 70,
+  "categoryid": 3,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/arroz%20rojo.png"
+}
+{
+  "title": "Brochetas",
+  "description": "Brochetas es un platillo de la cocina muy popular en todo el mundo. marinado con una mezcla de hierbas y especias cuidadosamente seleccionadas para darle un sabor único y delicioso.  Este platillo se vende por piezas y lo puedes acompañar con una variedad de guarniciones como papas, arroz o ensalada.",
+  "price": 80,
+  "quantity": 100,
+  "categoryid": 3,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/banderillas%20asaderos.jpg"
+}
+{
+  "title": "Burritos",
+  "description": "Burritos es un platillo de la cocina muy popular en todo el mundo. marinado con una mezcla de hierbas y especias cuidadosamente seleccionadas para darle un sabor único y delicioso.  Este platillo se vende por piezas y lo puedes acompañar con una variedad de guarniciones como papas, arroz o ensalada.",
+  "price": 80,
+  "quantity": 100,
+  "categoryid": 3,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/burritos.jpg"
+}
+{
+  "title": "Camarones Asados",
+  "description": "Camarones Asados es un platillo de la cocina muy popular en todo el mundo. marinado con una mezcla de hierbas y especias cuidadosamente seleccionadas para darle un sabor único y delicioso.  Este platillo se vende por kg y lo puedes acompañar con una variedad de guarniciones como papas, arroz o ensalada.",
+  "price": 120,
+  "quantity": 200,
+  "categoryid": 3,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/burritos.jpg"
+}
+{
+  "title": "Chorizo",
+  "description": "Chorizo  es un platillo de la cocina muy popular en todo el mundo. marinado con una mezcla de hierbas y especias cuidadosamente seleccionadas para darle un sabor único y delicioso.  Este platillo se vende por piezas y lo puedes acompañar con una variedad de guarniciones como papas, arroz o ensalada.",
+  "price": 35,
+  "quantity": 200,
+  "categoryid": 3,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/chorizo.jpg"
+}
+{
+  "title": "Costilla",
+  "description": "Las Costilla es un platillo de la cocina muy popular en todo el mundo. marinado con una mezcla de hierbas y especias cuidadosamente seleccionadas para darle un sabor único y delicioso.  Este platillo se vende por kg y lo puedes acompañar con una variedad de guarniciones como papas, arroz o ensalada.",
+  "price": 120,
+  "quantity": 200,
+  "categoryid": 3,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/costilla.jpg"
+}
+{
+  "title": "Ensalada",
+  "description": "Ensalada es un platillo de la cocina muy popular en todo el mundo. marinado con una mezcla de hierbas y especias cuidadosamente seleccionadas para darle un sabor único y delicioso.  Este platillo se vende por pieza y lo puedes acompañar con una variedad de guarniciones como papas, arroz o ensalada.",
+  "price": 30,
+  "quantity": 200,
+  "categoryid": 3,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/ensalada.jpg"
+}
+{
+  "title": "Ensalada de Frutas",
+  "description": "La Ensalada de frutas es un platillo de la cocina muy popular en todo el mundo. Para darle un sabor único y delicioso usamos la mejro fruta.  Este platillo se vende por pieza y lo puedes acompañar con una variedad de guarniciones como papas, arroz o ensalada.",
+  "price": 20,
+  "quantity": 200,
+  "categoryid": 3,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/ensaladafrutas.jpg"
+}
+{
+  "title": "Papa Al Horno",
+  "description": "La Papa al horno es un platillo de la cocina muy popular en todo el mundo. Para darle un sabor único y delicioso usamos el mejor queso y tocino que hay en el mercado.  Este platillo se vende por pieza y lo puedes acompañar con una variedad de guarniciones como papas, arroz o ensalada.",
+  "price": 90,
+  "quantity": 200,
+  "categoryid": 3,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/papaalhorno.jpg"
+}
+{
+  "title": "Papas adobadas",
+  "description": "Las papas adobadases un platillo de la cocina muy popular en todo el mundo. Para darle un sabor único y delicioso usamos el mejor queso y tocino que hay en el mercado.  Este platillo se vende por pieza y lo puedes acompañar con una variedad de guarniciones como papas, arroz o ensalada.",
+  "price": 20,
+  "quantity": 200,
+  "categoryid": 3,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/papas.jpg"
+}
+{
+  "title": "Pescado asado ",
+  "description": "Los Pescados es un platillo de la cocina tradicional, muy popular en todo el mundo. marinado con una mezcla de hierbas y especias cuidadosamente seleccionadas para darle un sabor único y delicioso.  Este platillo se vende por kilos y lo puedes acompañar con una variedad de guarniciones como papas, arroz o ensalada.",
+  "price": 90,
+  "quantity": 200,
+  "categoryid": 3,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/pescado%20asado.jpg"
+}
+{
+  "title": "Pure de papa",
+  "description": "El Pure de papa es un platillo de la cocina tradicional, muy popular en todo el mundo. marinado con una mezcla de hierbas y especias cuidadosamente seleccionadas para darle un sabor único y delicioso.  Este platillo se vende por kilos y lo puedes acompañar con una variedad de guarniciones como papas, arroz o ensalada.",
+  "price": 30,
+  "quantity": 200,
+  "categoryid": 3,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/pure%20de%20papa.jpg"
+}
+{
+  "title": "Salmon Asado",
+  "description": "El Salmon asado es un platillo de la cocina tradicional, muy popular en todo el mundo. marinado con una mezcla de hierbas y especias cuidadosamente seleccionadas para darle un sabor único y delicioso.  Este platillo se vende por kilos y lo puedes acompañar con una variedad de guarniciones como papas, arroz o ensalada.",
+  "price": 90,
+  "quantity": 200,
+  "categoryid": 3,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/salmon%20asado.png"
+}
+{
+  "title": "Tacos",
+  "description": "Los Tacos asado es un platillo de la cocina tradicional, muy popular en todo el mundo. marinado con una mezcla de hierbas y especias cuidadosamente seleccionadas para darle un sabor único y delicioso.  Este platillo se vende por kilos y lo puedes acompañar con una variedad de guarniciones como papas, arroz o ensalada.",
+  "price": 20,
+  "quantity": 200,
+  "categoryid": 3,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/tacos.jpg"
+}
+{
+  "title": "Tacos de Arrachera",
+  "description": "Los Tacos De Arrachera es un platillo de la cocina tradicional, muy popular en todo el mundo. marinado con una mezcla de hierbas y especias cuidadosamente seleccionadas para darle un sabor único y delicioso.  Este platillo se vende por kilos y lo puedes acompañar con una variedad de guarniciones como papas, arroz o ensalada.",
+  "price": 22,
+  "quantity": 200,
+  "categoryid": 3,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/tacosArrachera.jpg"
+}
+{
+  "title": "Tacos blandos de Pollo",
+  "description": "Los Tacos Blandos De Pollo es un platillo de la cocina tradicional, muy popular en todo el mundo. marinado con una mezcla de hierbas y especias cuidadosamente seleccionadas para darle un sabor único y delicioso.  Este platillo se vende por kilos y lo puedes acompañar con una variedad de guarniciones como papas, arroz o ensalada.",
+  "price": 22,
+  "quantity": 200,
+  "categoryid": 3,
+  "link": "https://raw.githubusercontent.com/ICCOCUT/imagenes/master/tacosbladopollo.jpg"
+}
+
